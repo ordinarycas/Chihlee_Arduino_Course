@@ -1,7 +1,7 @@
 # Chihlee Arduino Shoolwork
 CUT Arduino Shoolwork
 
-> Lab Topic 02
+>Lab Topic 02
 >> helloworld
 >> multi_led_scrolling1
 >> potentiometer
